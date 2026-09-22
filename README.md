@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mark-dallen
 - 🌱 I’m currently building my skills in golang and python
 - 📫 Email: mark-dallen@outlook.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/They
 
 <!---
 mark-dallen/mark-dallen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
